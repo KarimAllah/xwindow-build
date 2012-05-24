@@ -1,0 +1,4 @@
+xserver/
+driver/xf86-input-keyboard
+driver/xf86-video-cirrus
+app/xkbcomp
