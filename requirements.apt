@@ -1,5 +1,6 @@
 gdb
 autoconf
+bison
 make
 xutils-dev
 texlive-font-utils
